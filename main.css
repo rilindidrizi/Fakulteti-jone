@@ -4687,22 +4687,3 @@ input, select, textarea {
 		}
 
 	}
-
-	#drejtimetgjuhet {
-		display: inline-flex;
-	}
-
-	#gjuhet{
-		transform: translateX(350px);
-	}
-
-	@media only screen and (min-width: 266px) {
-
-		#drejtimetgjuhet {
-			display: block;
-		}
-
-		#gjuhet {
-			transform: translateX(0px);
-		}
-	}
