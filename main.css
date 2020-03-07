@@ -4696,7 +4696,7 @@ input, select, textarea {
 		transform: translateX(350px);
 	}
 
-	@media only screen and (max-width: 70.9mm) {
+	@media only screen and (min-width: 414px) {
 
 		#drejtimetgjuhet {
 			display: block;
